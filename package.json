@@ -1,0 +1,11 @@
+{
+  "name": "curso-de-single-page-application-con-javascript-vanilla",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Diego Luna <diegofcolunalopez@gmail.com>",
+  "license": "MIT"
+}
