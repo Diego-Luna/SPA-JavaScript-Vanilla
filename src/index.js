@@ -1,1 +1,4 @@
-console.log("hola mundo");
+import router from "./routes";
+
+// esperamos a que pase el "load", y queremos que aga algo
+window.addEventListener("load", router);
